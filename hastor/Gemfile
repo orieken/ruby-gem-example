@@ -1,0 +1,7 @@
+# frozen_string_literal: true
+
+source 'https://rubygems.org'
+
+gem 'necronomicon', path: '../necronomicon'
+gem 'rspec'
+gem 'yog_sothoth', path: '../yog_sothoth'
