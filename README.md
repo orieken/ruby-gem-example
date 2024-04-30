@@ -46,3 +46,9 @@ The hastor project demonstrates how to integrate both gems:
 * Employ matchers and shared examples from yog-sothoth to streamline testing.
 #### Optional: Testing Necronomicon (if applicable):
 * Extend hastor tests to test functionalities within necronomicon using Yog-Sothoth's shared examples.
+
+
+## Usage
+1. build yog-sothoth gem
+2. build necronomicon gem
+3. `bundle exec rspec spec --format documentation` in hastor project
